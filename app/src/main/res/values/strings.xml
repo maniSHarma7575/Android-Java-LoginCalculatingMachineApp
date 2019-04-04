@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="no_of_attempts_remaining">No of attempts remaining</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="myapp">AppLock</string>
+</resources>
